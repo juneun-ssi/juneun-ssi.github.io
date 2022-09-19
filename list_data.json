@@ -1,22 +1,34 @@
 {
-	"movies": [
+	"video_games": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Persona 5",
+			"Console": "PS4",
+			"Genre": "RPG",
+			"Release Date": "April 4, 2017"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Pokémon Legends: Arceus",
+			"Console": "Nintendo Switch",
+			"Genre": "RPG",
+			"Release Date": "January 28, 2022"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Stardew Valley",
+			"Console": "PC",
+			"Genre": "Simulation",
+			"Release Date": "February 26, 2016"
+		},
+		{
+			"Title": "Uncharted 4: A Thief's End",
+			"Console": "PS4",
+			"Genre": "Action-adventure",
+			"Release Date": "May 10, 2016"
+		},
+		{
+			"Title": "Final Fantasy XII",
+			"Console": "PS2",
+			"Genre": "RPG",
+			"Release Date": "October 31, 2006"
 		}
 	]
 }
